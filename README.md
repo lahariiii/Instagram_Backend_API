@@ -1,1 +1,1 @@
-# basic_insta_API_backend
+# basic version of instagram API backend using Go
